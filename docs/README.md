@@ -1,6 +1,6 @@
 #------------------------------------------------------------------------
 #| TheFadingExpedition
-#|    A IEEE 802.1Q-2005 Spanning Tree Simulator
+#|    A IEEE 802.1Q-2014 Spanning Tree Simulator
 #------------------------------------------------------------------------
 #| About
   The intent of this project is to create libraries to perform 
